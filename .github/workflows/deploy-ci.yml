@@ -1,4 +1,4 @@
-name: GO
+name: deploy-ci
 on:
   push:
     branches:
